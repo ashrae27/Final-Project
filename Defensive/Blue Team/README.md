@@ -25,10 +25,8 @@ Traffic to these services should be carefully monitored. To this end, we have im
 TODO: Replace Alert 1 with the name of the alert.
 Alert 1 is implemented as follows:
 
-
-Metric: TODO
-
-Threshold: TODO
+- **Metric: TODO
+- **Threshold: TODO
 
 Vulnerability Mitigated: TODO
 
