@@ -1,6 +1,6 @@
 #### Blue Team: Summary of Operations
 
-## Table of Contents
+#### Table of Contents
 
 # Network Topology
 Description of Targets
