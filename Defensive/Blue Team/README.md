@@ -1,18 +1,12 @@
 # Blue Team: Summary of Operations
 
 # Network Topology
-Description of Targets
-Monitoring the Targets
-Patterns of Traffic & Behavior
-Suggestions for Going Further
-
-# Network Topology
 TODO: Fill out the information below.
 The following machines were identified on the network:
 
 # Name of VM 1
 
-- # Operating System:
+- Operating System:
 - Purpose:
 - IP Address:
 
