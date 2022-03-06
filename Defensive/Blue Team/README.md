@@ -2,14 +2,13 @@
 
 ### Network Topology
 The following machines were identified on the network:
-
+### Name of VM 1
 - Operating System:
 - Purpose:
 - IP Address:
 
 ### Name of VM 2
-
-Operating System:
+- Operating System:
 - Purpose:
 - IP Address:
 - Etc.
