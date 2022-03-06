@@ -25,72 +25,49 @@ Traffic to these services should be carefully monitored. To this end, we have im
 TODO: Replace Alert 1 with the name of the alert.
 Alert 1 is implemented as follows:
 
-- **Metric: TODO
-- **Threshold: TODO
-
-Vulnerability Mitigated: TODO
+- Metric: TODO
+- Threshold: TODO
+- Vulnerability Mitigated: TODO
 
 Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
-
 
 ## Name of Alert 2
 Alert 2 is implemented as follows:
 
-
-Metric: TODO
-
-Threshold: TODO
-
-Vulnerability Mitigated: TODO
+- Metric: TODO
+- Threshold: TODO
+- Vulnerability Mitigated: TODO
 
 Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
-
 
 Name of Alert 3
 Alert 3 is implemented as follows:
 
-
-Metric: TODO
-
-Threshold: TODO
-
-Vulnerability Mitigated: TODO
+- Metric: TODO
+- Threshold: TODO
+- Vulnerability Mitigated: TODO
 
 Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
 
 TODO Note: Explain at least 3 alerts. Add more if time allows.
 
-Suggestions for Going Further (Optional)
+### Suggestions for Going Further (Optional)
 TODO:
 
-Each alert above pertains to a specific vulnerability/exploit. Recall that alerts only detect malicious behavior, but do not stop it. For each vulnerability/exploit identified by the alerts above, suggest a patch. E.g., implementing a blocklist is an effective tactic against brute-force attacks. It is not necessary to explain how to implement each patch.
+- Each alert above pertains to a specific vulnerability/exploit. Recall that alerts only detect malicious behavior, but do not stop it. For each vulnerability/exploit identified by the alerts above, suggest a patch. E.g., implementing a blocklist is an effective tactic against brute-force attacks. It is not necessary to explain how to implement each patch.
 
 The logs and alerts generated during the assessment suggest that this network is susceptible to several active threats, identified by the alerts above. In addition to watching for occurrences of such threats, the network should be hardened against them. The Blue Team suggests that IT implement the fixes below to protect the network:
 
-Vulnerability 1
-
-
-Patch: TODO: E.g., install special-security-package with apt-get
-
+- Vulnerability 1
+    -Patch: TODO: E.g., install special-security-package with apt-get
+    -Why It Works:
 
 Why It Works: TODO: E.g., special-security-package scans the system for viruses every day
 
+- Vulnerability 2
+   -Patch: TODO: E.g., install special-security-package with apt-get
+   -Why It Works: TODO: E.g., special-security-package scans the system for viruses every day
 
-
-Vulnerability 2
-
-
-Patch: TODO: E.g., install special-security-package with apt-get
-
-
-Why It Works: TODO: E.g., special-security-package scans the system for viruses every day
-
-
-
-Vulnerability 3
-
-
-Patch: TODO: E.g., install special-security-package with apt-get
-
-
-Why It Works: TODO: E.g., special-security-package scans the system for viruses every da
+- Vulnerability 3
+    -Patch: TODO: E.g., install special-security-package with apt-get
+    -Why It Works: TODO: E.g., special-security-package scans the system for viruses every da
