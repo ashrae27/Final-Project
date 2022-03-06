@@ -1,6 +1,6 @@
 # Blue Team: Summary of Operations
 
-# Network Topology
+### Network Topology
 TODO: Fill out the information below.
 The following machines were identified on the network:
 
