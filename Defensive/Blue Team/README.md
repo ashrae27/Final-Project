@@ -12,7 +12,7 @@ The following machines were identified on the network:
 
 # Name of VM 1
 
-- Operating System:
+- # Operating System:
 - Purpose:
 - IP Address:
 
