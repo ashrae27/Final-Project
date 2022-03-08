@@ -12,16 +12,28 @@ The following machines were identified on the network:
 
 ![Target Server Diagram](https://user-images.githubusercontent.com/88813019/157139657-0a211372-34ac-459a-8236-5a21e8c2702d.png)
 
-### Name of VM 1
-- Operating System:
-- Purpose:
-- IP Address:
+### Kali Linux
+- Operating System: Linux (Debian)
+- Purpose: Pen testing machine
+- IP Address: 192.168.1.90
 
-### Name of VM 2
-- Operating System:
-- Purpose:
-- IP Address:
-- Etc.
+### Target 1
+- Operating System: Linux
+- Purpose: Victim machine #1
+- IP Address: 192.168.1.110/24
+
+### Target 2
+- Operation System: Linux 
+- Purpose: Victim machine #2
+- IP Address: 192.168.1.115/24
+
+### Elk
+- Operation System: Linux
+- Purpose: Host Machine
+- IP Address: 19.168.1.100
+
+#
+
 
 ### Description of Targets
 TODO: Answer the questions below.
