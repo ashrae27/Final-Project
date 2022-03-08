@@ -32,8 +32,10 @@ The following machines were identified on the network:
 - Purpose: Host Machine
 - IP Address: 19.168.1.100
 
-#
-
+### Capstone
+- Operation System: Linux
+- Purpose: Victim machine
+- IP Address: 192.168.1.105
 
 ### Description of Targets
 TODO: Answer the questions below.
