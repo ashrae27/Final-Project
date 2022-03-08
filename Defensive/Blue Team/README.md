@@ -9,6 +9,8 @@
 - Suggestions for Going Further
 ### Network Topology
 The following machines were identified on the network:
+![Target Server Diagram](https://user-images.githubusercontent.com/88813019/157139657-0a211372-34ac-459a-8236-5a21e8c2702d.png)
+
 ### Name of VM 1
 - Operating System:
 - Purpose:
