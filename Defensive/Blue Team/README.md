@@ -64,7 +64,7 @@ Alert 2 is implemented as follows:
 
 Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
 
-Name of Alert 3
+## Name of Alert 3
 Alert 3 is implemented as follows:
 
 - Metric: TODO
