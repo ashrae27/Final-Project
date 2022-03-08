@@ -40,6 +40,12 @@ The following machines were identified on the network:
 ### Description of Targets.
 The target of this attack was: 
 
+#### Target 1
+![activity day 2  part 1 Target 1 IP Address](https://user-images.githubusercontent.com/88813019/157151854-efcd21a9-ff4b-4a45-a72c-0af818498936.PNG)
+
+#### Target 2
+![target 2 scan IP Address](https://user-images.githubusercontent.com/88813019/157151883-e280f7f8-76f2-4867-a86b-7ff9b2ad35f9.PNG)
+
 Both Target 1 and 2 server open ports are SSH (22), HTTP (80) and rpcbind(111).
 
 Monitoring the Targets
