@@ -40,11 +40,8 @@ The following machines were identified on the network:
 ### Description of Targets
 TODO: Answer the questions below.
 The target of this attack was: 
-#### Target 1:
-- The servers open ports are SSH (22), HTTP (80), and rpcbind (111)
 
-#### Target 2:
-- The servers open ports are SSH (22), HTTP and rpcbid (111)
+Both Target 1 and 2 server open ports are SSH (22), HTTP (80) and rpcbind(111).
 
 Monitoring the Targets
 Traffic to these services should be carefully monitored. To this end, we have implemented the alerts below:
