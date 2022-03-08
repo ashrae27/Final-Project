@@ -37,8 +37,7 @@ The following machines were identified on the network:
 - Purpose: Victim machine
 - IP Address: 192.168.1.105
 
-### Description of Targets
-TODO: Answer the questions below.
+### Description of Targets.
 The target of this attack was: 
 
 Both Target 1 and 2 server open ports are SSH (22), HTTP (80) and rpcbind(111).
