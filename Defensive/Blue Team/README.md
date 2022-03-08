@@ -18,22 +18,22 @@ The following machines were identified on the network:
 - IP Address: 192.168.1.90
 
 ### Target 1
-- Operating System: Linux
+- Operating System: Debian/Linux 8
 - Purpose: Apache
 - IP Address: 192.168.1.110/24
 
 ### Target 2
-- Operation System: Linux 
+- Operation System: Debian/Linux 8
 - Purpose: Apache
 - IP Address: 192.168.1.115/24
 
 ### Elk
-- Operation System: Linux
+- Operation System: Ubuntu 18.0.4
 - Purpose: Host Machine
 - IP Address: 19.168.1.100
 
 ### Capstone
-- Operation System: Linux
+- Operation System: Ubuntu 18.04.1 LTS
 - Purpose: Victim machine
 - IP Address: 192.168.1.105
 
