@@ -19,12 +19,12 @@ The following machines were identified on the network:
 
 ### Target 1
 - Operating System: Linux
-- Purpose: Victim machine #1
+- Purpose: Apache
 - IP Address: 192.168.1.110/24
 
 ### Target 2
 - Operation System: Linux 
-- Purpose: Victim machine #2
+- Purpose: Apache
 - IP Address: 192.168.1.115/24
 
 ### Elk
