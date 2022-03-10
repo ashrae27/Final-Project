@@ -85,7 +85,7 @@ It can provide implements such as:
 - Ifconfig
 
 ### HTTP Request Size Monitor
-- Patch: TODO: E.g., install special-security-package with apt-get
+- Patch: 
 - Why It Works: TODO: E.g., special-security-package scans the system for viruses every day
 
 ### CPU Usage Monitor
