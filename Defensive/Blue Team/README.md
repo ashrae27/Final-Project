@@ -58,11 +58,11 @@ Reliability: The alert will let the SOC team know if there are any alerts above 
 ## HTTP Request Size Monitor
 Alert 2 is implemented as follows:
 
-- Metric: WHEN sum () OF http.
-- Threshold: TODO
-- Vulnerability Mitigated: TODO
+- Metric: WHEN sum () OF http.request.bytes OVER all documents IS ABOVE 3500 FOR THE LAST 1 minute
+- Threshold: 3500
+- Vulnerability Mitigated: Cross site script of Denial of Service attacks
 
-Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
+Reliability: The alert will let us know there are a large number of HTTP requests and some requests have not hurt our systems.
 
 ## CPU Usage Monitor
 Alert 3 is implemented as follows:
