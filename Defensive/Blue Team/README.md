@@ -53,7 +53,7 @@ Alert 1 is implemented as follows:
 - Threshold: IS ABOVE 400
 - Vulnerability Mitigated: Brute Force Attacks
 
-Reliability: The Alert will let to know the SOC team if any alerts aboe 400 allow the team to analyze the server errors. If there are multiple errors with a short time, it could become a brute force attack
+Reliability: The alert will let the SOC team know if there are any alerts above 400 that allow the team to analyze the server errors. If there are multiple errors in a short time, it could become a brute force attack.
 
 ## HTTP Request Size Monitor
 Alert 2 is implemented as follows:
