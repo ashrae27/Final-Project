@@ -76,8 +76,13 @@ Reliability: The alert can identify issues in CPU performance and make it a syst
 The logs and alerts generated during the assessment suggest that this network is susceptible to several active threats, identified by the alerts above. In addition to watching for occurrences of such threats, the network should be hardened against them. The Blue Team suggests that IT implement the fixes below to protect the network:
 
 ### Excessive HTTP Errors
-- Patch: TODO: E.g., install special-security-package with apt-get
-- Why It Works:
+- Patch: Hardening wordpress and wordpress implement
+
+- Why It Works: Updates to wordpress and easy implement fixes exploits/vulnerabilites
+
+It can provide implements such as:
+- Firewall
+- Ifconfig
 
 ### HTTP Request Size Monitor
 - Patch: TODO: E.g., install special-security-package with apt-get
