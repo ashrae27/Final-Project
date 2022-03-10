@@ -67,9 +67,9 @@ Reliability: The alert will let us know there are a large number of HTTP request
 ## CPU Usage Monitor
 Alert 3 is implemented as follows:
 
-- Metric: TODO
-- Threshold: TODO
-- Vulnerability Mitigated: TODO
+- Metric: WHEN max () OF system.process.cpu.total.pct OVER all documents IS ABOVE 0.5 FOR THE LAST 5 minutes
+- Threshold: IS ABOVE0.5 
+- Vulnerability Mitigated: Malicious programs take up to 0.5% CPU usage
 
 Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
 
