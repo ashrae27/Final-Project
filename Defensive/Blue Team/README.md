@@ -38,7 +38,10 @@ The target of this attack was:
 #### Target 1
 ![activity day 2  part 1 Target 1 IP Address](https://user-images.githubusercontent.com/88813019/157151854-efcd21a9-ff4b-4a45-a72c-0af818498936.PNG)
 
-Target 1  open ports are SSH (22), HTTP (80) and rpcbind(111).
+Target 1 open ports are:
+- SSH (22)
+- HTTP (80) 
+- rpcbind(111).
 
 Monitoring the Targets
 Traffic to these services should be carefully monitored. To this end, we have implemented the alerts below:
