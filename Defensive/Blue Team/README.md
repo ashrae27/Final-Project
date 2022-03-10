@@ -83,6 +83,8 @@ The logs and alerts generated during the assessment suggest that this network is
 It can provide implements such as:
 - Firewall
 - Ifconfig
+Wordpress can include users
+- Vuew all the users and helpts mitiagte in case of enumeration attacks
 
 ### HTTP Request Size Monitor
 - Patch: 
