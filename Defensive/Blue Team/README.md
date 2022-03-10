@@ -51,9 +51,9 @@ Alert 1 is implemented as follows:
 
 - Metric: WHEN count () GROUPED OVER top 5 'http. response.status_code' IS ABOVE 400 FOR THE LAST 5 minutes
 - Threshold: IS ABOVE 400
-- Vulnerability Mitigated: The Alert will let to know the SOC team if any alerts aboe 400 allow the team to analyze the server errors. If there are multiple errors with a short time, it could become a brute force attack
+- Vulnerability Mitigated: Brute Force Attacks
 
-Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
+Reliability: The Alert will let to know the SOC team if any alerts aboe 400 allow the team to analyze the server errors. If there are multiple errors with a short time, it could become a brute force attack
 
 ## HTTP Request Size Monitor
 Alert 2 is implemented as follows:
