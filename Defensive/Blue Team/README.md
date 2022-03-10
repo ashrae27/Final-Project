@@ -46,8 +46,7 @@ Target 1 open ports are:
 Monitoring the Targets
 Traffic to these services should be carefully monitored. To this end, we have implemented the alerts below:
 
-## Name of Alert 1
-TODO: Replace Alert 1 with the name of the alert.
+## Excessive HTTP Errors
 Alert 1 is implemented as follows:
 
 - Metric: TODO
@@ -56,7 +55,7 @@ Alert 1 is implemented as follows:
 
 Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
 
-## Name of Alert 2
+## HTTP Request Size Monitor
 Alert 2 is implemented as follows:
 
 - Metric: TODO
@@ -65,7 +64,7 @@ Alert 2 is implemented as follows:
 
 Reliability: TODO: Does this alert generate lots of false positives/false negatives? Rate as low, medium, or high reliability.
 
-## Name of Alert 3
+## CPU Usage Monitor
 Alert 3 is implemented as follows:
 
 - Metric: TODO
@@ -81,8 +80,6 @@ The logs and alerts generated during the assessment suggest that this network is
 ### Vulnerability 1
 - Patch: TODO: E.g., install special-security-package with apt-get
 - Why It Works:
-
-Why It Works: TODO: E.g., special-security-package scans the system for viruses every day
 
 ### Vulnerability 2
 - Patch: TODO: E.g., install special-security-package with apt-get
