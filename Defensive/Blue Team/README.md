@@ -77,14 +77,14 @@ TODO Note: Explain at least 3 alerts. Add more if time allows.
 
 The logs and alerts generated during the assessment suggest that this network is susceptible to several active threats, identified by the alerts above. In addition to watching for occurrences of such threats, the network should be hardened against them. The Blue Team suggests that IT implement the fixes below to protect the network:
 
-### Vulnerability 1
+### Excessive HTTP Errors
 - Patch: TODO: E.g., install special-security-package with apt-get
 - Why It Works:
 
-### Vulnerability 2
+### HTTP Request Size Monitor
 - Patch: TODO: E.g., install special-security-package with apt-get
 - Why It Works: TODO: E.g., special-security-package scans the system for viruses every day
 
-### Vulnerability 3
+### CPU Usage Monitor
  - Patch: TODO: E.g., install special-security-package with apt-get
  - Why It Works: TODO: E.g., special-security-package scans the system for viruses every da
