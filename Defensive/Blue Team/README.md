@@ -19,17 +19,17 @@ The following machines were identified on the network:
 
 ### Target 1
 - Operating System: Debian/Linux 8
-- Purpose: Apache
+- Purpose: Vulnerability WordPress Attack 2
 - IP Address: 192.168.1.110/24
 
 ### Elk
 - Operation System: Ubuntu 18.0.4
-- Purpose: Host Machine
+- Purpose: Access to Web to view alerts
 - IP Address: 19.168.1.100
 
 ### Capstone
 - Operation System: Ubuntu 18.04.1 LTS
-- Purpose: Victim machine
+- Purpose: Alert testing Attack target
 - IP Address: 192.168.1.105
 
 ### Description of Targets.
