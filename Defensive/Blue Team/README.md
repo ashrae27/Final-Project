@@ -22,11 +22,6 @@ The following machines were identified on the network:
 - Purpose: Apache
 - IP Address: 192.168.1.110/24
 
-### Target 2
-- Operation System: Debian/Linux 8
-- Purpose: Apache
-- IP Address: 192.168.1.115/24
-
 ### Elk
 - Operation System: Ubuntu 18.0.4
 - Purpose: Host Machine
