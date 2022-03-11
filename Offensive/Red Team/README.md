@@ -49,10 +49,10 @@ We guess michaels password which is "michael"
 
 The Red Team was able to penetrate Target 1 and retrieve the following confidential data:
 
-Target 1
+### Target 1
 
-
-flag1.txt: TODO: Insert flag1.txt hash value
+flag1.txt:
+![Activity 1 Day 2  Flag 1 1](https://user-images.githubusercontent.com/88813019/157802938-dcb745a7-11a9-4f9a-8c27-76c080b6111e.PNG)
 
 
 Exploit Used
