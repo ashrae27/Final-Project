@@ -19,9 +19,11 @@ This scan identifies the services below as potential points of entry:
 
 - Target 1
 
-List of Exposed Services
+List of Exposed Services:
+- Port 22 (SSH)
+- Port 80 (HTTP)
+- Port 111 (rcpbind)
 
-TODO: Fill out the list below. Include severity, and CVE numbers, if possible.
 The following vulnerabilities were identified on each target:
 
 - Target 1
