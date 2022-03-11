@@ -17,7 +17,7 @@ Insert scan output
 
 This scan identifies the services below as potential points of entry:
 
-- Target 1
+### Target 1:
 
 List of Exposed Services:
 - Port 22 (SSH)
