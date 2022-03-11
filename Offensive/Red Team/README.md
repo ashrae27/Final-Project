@@ -58,6 +58,7 @@ flag1.txt:
 Exploit Used
 
 TODO: Identify the exploit used
+
 Command used: $grep flag * 1 service.html
 
 flag2.txt: TODO: Insert flag2.txt hash value
