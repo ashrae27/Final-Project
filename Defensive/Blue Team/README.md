@@ -93,8 +93,7 @@ Boundries on the webservers can include
 - highest URL length
 - Highest size
 
-- Why It Works: HTTP appeal URl length and the size limit of the request of 404 errors will happen.
-Data validtion helping protect against  malicious data from attackers who attempts to send the server through the website or across a HTTP appeal.
+- Why It Works: 404 errors will happen due to HTTP appeal URl length and the size limit of the request. Data validation helps protect against malicious data from attackers who attempt to send the server through the website or across an HTTP appeal.
 
 
 ### CPU Usage Monitor
