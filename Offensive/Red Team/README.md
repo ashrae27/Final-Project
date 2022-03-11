@@ -26,22 +26,16 @@ List of Exposed Services:
 
 The following vulnerabilities were identified on each target:
 
-- Target 1
-- List of
-- Critical
-- Vulnerabilities
-
-TODO: Include vulnerability scan results to prove the identified vulnerabilities.
+- Identification and Authentication Failures
+- Weak passwords
+- Unprotected files
+- User Enumeration (WordPress)
 
 ## Exposed Services
 
 The following vulnerabilities were identified on each target:
 
 Target 1
-- Identification and Authentication Failures
-- Weak passwords
-- Unprotected files
-- User Enumeration (WordPress)
 
 TODO: Include vulnerability scan results to prove the identified vulnerabilities.
 
