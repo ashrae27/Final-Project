@@ -14,6 +14,9 @@ $ nmap -sS -v -A 192.168.1.110/24
 
 Insert scan output
 
+![activity day 2  part 1 Target 1 IP Address](https://user-images.githubusercontent.com/88813019/157798224-1a578aa5-af32-4f26-9de8-ca1005145994.PNG)
+
+
 This scan identifies the services below as potential points of entry:
 
 Target 1
