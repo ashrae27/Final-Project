@@ -56,7 +56,7 @@ flag1.txt:
 ![Activity 1 Day 2  Flag 1 1](https://user-images.githubusercontent.com/88813019/157802938-dcb745a7-11a9-4f9a-8c27-76c080b6111e.PNG)
 
 Exploit Used
-Cd /var/www/hmtl/ 
+
 TODO: Identify the exploit used
 Command used: $grep flag * 1 service.html
 
