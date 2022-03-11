@@ -13,9 +13,7 @@ Nmap scan results for each machine reveal the below services and OS details:
 $ nmap -sS -v -A 192.168.1.110/24
 
 Insert scan output
-
-![activity day 2  part 1 Target 1 IP Address](https://user-images.githubusercontent.com/88813019/157798224-1a578aa5-af32-4f26-9de8-ca1005145994.PNG)
-
+![Activity Day 2 part 1  command nmap -sS -v -A](https://user-images.githubusercontent.com/88813019/157798284-04363218-18ef-413d-b780-8ed69658bb63.PNG)
 
 This scan identifies the services below as potential points of entry:
 
