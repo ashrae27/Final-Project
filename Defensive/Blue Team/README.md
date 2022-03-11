@@ -93,7 +93,7 @@ Boundries on the webservers can include
 - highest URL length
 - Highest size
 
-- Why It Works: HTTP appeal URl length and the size 
+- Why It Works: HTTP appeal URl length and the size limit of the request of 404 errors will happen.
 
 
 ### CPU Usage Monitor
