@@ -36,7 +36,8 @@ The following vulnerabilities were identified on each target:
 The following vulnerabilities were identified on each target:
 
 #### Target 1
-
+We ran the command: wpscan --url http://192.168.1.110/wordpress --enumerate u
+This command will find the usernames
 
 
 ## Exploitation
