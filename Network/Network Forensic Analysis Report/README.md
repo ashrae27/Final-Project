@@ -5,7 +5,7 @@ You must inspect your traffic capture to answer the following questions:
 
 What is the domain name of the users' custom site?
 
-**frank -in -ted.com
+**frank -in -ted.com** 
 
 What is the IP address of the Domain Controller (DC) of the AD network?
 
