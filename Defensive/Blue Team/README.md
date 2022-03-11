@@ -10,7 +10,7 @@
 ### Network Topology
 The following machines were identified on the network:
 
-![Target Server Diagram](https://user-images.githubusercontent.com/88813019/157139657-0a211372-34ac-459a-8236-5a21e8c2702d.png)
+![Final project diagram](https://user-images.githubusercontent.com/88813019/157797758-92a8ad94-3626-4a4b-bb00-a051e4d9f843.png)
 
 ### Kali Linux
 - Operating System: Linux (Debian)
