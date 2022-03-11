@@ -100,3 +100,5 @@ Boundries on the webservers can include
  - Patch: Virus or Malware
  - Add an better antivirus or update the antivirus 
  - Why It Works: Antivirus remove malicious threats against computers.
+ - Any antivirus covers more than 1 viruses and protecting the computer.
+
