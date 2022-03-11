@@ -42,7 +42,9 @@ What kind of malware is this classified as?
 ### Illegal Downloads
 1. Find the following information about the machine with IP address 10.0.0.201:
 
-- MAC address
-- Windows username
-- OS version
+- MAC address **00:16:17:18:66:C8*
+- Windows username **SNamestring**
+- OS version **Windows NT 10:0**
  2. Which torrent file did the user download?
+
+**type=torrent and file=Betty_Book_Rythm_the_Reservatiion.avi.torrent HTTP/.1.1 /r /n**
