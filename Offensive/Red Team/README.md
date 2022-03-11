@@ -10,10 +10,10 @@ Exploitation
 ## Exposed Services
 Nmap scan results for each machine reveal the below services and OS details:
 
-$ nmap -sS -v -A 192.168.1.110/24
+$ nmap 192.168.1.110/24
 
 Insert scan output
-![Activity Day 2 part 1  command nmap -sS -v -A](https://user-images.githubusercontent.com/88813019/157798284-04363218-18ef-413d-b780-8ed69658bb63.PNG)
+
 
 This scan identifies the services below as potential points of entry:
 
