@@ -97,5 +97,6 @@ Boundries on the webservers can include
 
 
 ### CPU Usage Monitor
- - Patch: TODO: E.g., install special-security-package with apt-get
+ - Patch: Virus or Malware
+ - Add an better antivirus or update an antivirus 
  - Why It Works: TODO: E.g., special-security-package scans the system for viruses every da
