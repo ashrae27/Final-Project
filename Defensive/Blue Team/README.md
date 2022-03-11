@@ -98,5 +98,5 @@ Boundries on the webservers can include
 
 ### CPU Usage Monitor
  - Patch: Virus or Malware
- - Add an better antivirus or update an antivirus 
- - Why It Works: TODO: E.g., special-security-package scans the system for viruses every da
+ - Add an better antivirus or update the antivirus 
+ - Why It Works: Antivirus remove malicious threats against computers.
