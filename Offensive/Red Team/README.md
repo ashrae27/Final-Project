@@ -39,6 +39,8 @@ The following vulnerabilities were identified on each target:
 We ran the command: wpscan --url http://192.168.1.110/wordpress --enumerate u
 This command will find the usernames "michael" and "steven" 
 
+We guess michaels password which is "michael"
+
 ![Activity Day 2 Part 1  users](https://user-images.githubusercontent.com/88813019/157802049-21bb43d6-8306-4f51-9368-67f0d35b9089.PNG)
 
 
