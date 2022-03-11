@@ -89,7 +89,9 @@ Wordpress can include users
 ### HTTP Request Size Monitor
 - Patch: Injection and DDoS
 - Why It Works: Execution of HTTP
-Boundries
+Boundries on the webservers can include 
+- highest URL length
+- Highest size
 
 ### CPU Usage Monitor
  - Patch: TODO: E.g., install special-security-package with apt-get
