@@ -88,7 +88,8 @@ Wordpress can include users
 
 ### HTTP Request Size Monitor
 - Patch: Injection and DDoS
-- Why It Works: Updates to WordPress and easy implement fixes exploits/vulnerabilities
+- Why It Works: Execution of HTTP
+Boundries
 
 ### CPU Usage Monitor
  - Patch: TODO: E.g., install special-security-package with apt-get
