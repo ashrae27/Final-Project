@@ -68,4 +68,9 @@ flag3.txt:
 ![flag3](https://user-images.githubusercontent.com/88813019/157804799-9bc22142-63ab-4ace-b189-837a8d1e5e6d.png)
 
 Commands used: 
+- mysql -h localost -u root -p
+- show databases;
+- use wordpress;
+- show tables;
+- select * from wp_posts;
 
