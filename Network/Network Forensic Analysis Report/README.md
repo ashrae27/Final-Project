@@ -21,21 +21,23 @@ Once you have found the file, export it to your Kali machine's desktop.
 
 What kind of malware is this classified as?
  
-** Trojan spy/mint**
+**Trojan spy/mint**
 
 ### Vulnerable Windows Machine
 
 1. Find the following information about the infected Windows machine:
 
-- Host name
-- IP address
-- MAC address
+- Host name **Rottendam-PC**
+- IP address **172.16.4.205*
+- MAC address **00:59:07:60:63**
 
 2. What is the username of the Windows user whose computer is infected?
 
+**matthijs devries**
+
 3. What are the IP addresses used in the actual infection traffic?
 
-4.As a bonus, retrieve the desktop background of the Windows host.
+![Screenshot 2022-03-09 210207](https://user-images.githubusercontent.com/88813019/157806448-d0827c42-0111-4de0-923d-a76ff188d621.png)
 
 ### Illegal Downloads
 1. Find the following information about the machine with IP address 10.0.0.201:
