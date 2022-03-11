@@ -61,5 +61,11 @@ flag2.txt:
 
 ![Activity Day 2 Part 1  Flag 2](https://user-images.githubusercontent.com/88813019/157804510-9c3fab66-b2b7-4404-b403-023905c19974.PNG)
 
-Command used: 
+Command used: cat flag2.txt
+
+flag3.txt: 
+
+![flag3](https://user-images.githubusercontent.com/88813019/157804799-9bc22142-63ab-4ace-b189-837a8d1e5e6d.png)
+
+Commands used: 
 
