@@ -87,8 +87,8 @@ Wordpress can include users
 - Vuew all the users and helpts mitiagte in case of enumeration attacks
 
 ### HTTP Request Size Monitor
-- Patch: 
-- Why It Works: TODO: E.g., special-security-package scans the system for viruses every day
+- Patch: Injection and DDoS
+- Why It Works: Updates to WordPress and easy implement fixes exploits/vulnerabilities
 
 ### CPU Usage Monitor
  - Patch: TODO: E.g., install special-security-package with apt-get
