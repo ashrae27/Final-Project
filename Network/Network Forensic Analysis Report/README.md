@@ -13,11 +13,14 @@ What is the IP address of the Domain Controller (DC) of the AD network?
 
 What is the name of the malware downloaded to the 10.6.12.203 machine?
 
+**GET/files/june.dll HTTP 
+
 Once you have found the file, export it to your Kali machine's desktop.
  
-Upload the file to VirusTotal.com.
-What kind of malware is this classified as?
+![Activity Day 3 malware](https://user-images.githubusercontent.com/88813019/157806113-eaac2324-3cc6-46c2-97d4-f273ac069c61.PNG)
 
+What kind of malware is this classified as?
+ 
 ### Vulnerable Windows Machine
 
 1. Find the following information about the infected Windows machine:
