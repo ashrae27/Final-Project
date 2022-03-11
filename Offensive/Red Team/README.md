@@ -35,9 +35,9 @@ The following vulnerabilities were identified on each target:
 
 The following vulnerabilities were identified on each target:
 
-Target 1
+#### Target 1
 
-TODO: Include vulnerability scan results to prove the identified vulnerabilities.
+
 
 ## Exploitation
 
