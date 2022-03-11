@@ -55,16 +55,11 @@ flag1.txt:
 
 ![Activity 1 Day 2  Flag 1 1](https://user-images.githubusercontent.com/88813019/157802938-dcb745a7-11a9-4f9a-8c27-76c080b6111e.PNG)
 
-Exploit Used
-
-TODO: Identify the exploit used
-
 Command used: $grep flag * 1 service.html
 
-flag2.txt: TODO: Insert flag2.txt hash value
+flag2.txt: 
 
+![Activity Day 2 Part 1  Flag 2](https://user-images.githubusercontent.com/88813019/157804510-9c3fab66-b2b7-4404-b403-023905c19974.PNG)
 
-Exploit Used
+Command used: 
 
-TODO: Identify the exploit used
-TODO: Include the command run
