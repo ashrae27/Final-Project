@@ -9,11 +9,11 @@ What is the domain name of the users' custom site?
 
 What is the IP address of the Domain Controller (DC) of the AD network?
 
-**10.6.12.0/24
+**10.6.12.0/24**
 
 What is the name of the malware downloaded to the 10.6.12.203 machine?
 
-**GET/files/june.dll HTTP 
+**GET/files/june.dll HTTP**
 
 Once you have found the file, export it to your Kali machine's desktop.
  
@@ -21,6 +21,8 @@ Once you have found the file, export it to your Kali machine's desktop.
 
 What kind of malware is this classified as?
  
+** Trojan spy/mint**
+
 ### Vulnerable Windows Machine
 
 1. Find the following information about the infected Windows machine:
