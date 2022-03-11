@@ -38,10 +38,10 @@ TODO: Include vulnerability scan results to prove the identified vulnerabilities
 The following vulnerabilities were identified on each target:
 
 Target 1
-
-List of
-Critical
-Vulnerabilities
+- Identification and Authentication Failures
+- Weak passwords
+- Unprotected files
+- User Enumeration (WordPress)
 
 TODO: Include vulnerability scan results to prove the identified vulnerabilities.
 
